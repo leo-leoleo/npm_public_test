@@ -1,0 +1,56 @@
+{
+  "status": "success",
+  "message": "处理成功",
+  "list": [{
+    "id": "4de68f52-ef43-474f-b043-d40f221c2125",
+    "rootLevel": "测试大类",
+    "objList": [{
+      "id": "4192edf2-6ab0-43bb-90ca-8ae472ab7710",
+      "objLevel": "测试二级目录"
+    }, {
+      "id": "0fd47927-7a5f-4c05-a7a6-9eac51efc80a",
+  "objLevel": "新界面测试"
+}]
+  }, {
+    "id": "39553c07-c2aa-4754-b163-d230f7443cbf",
+    "rootLevel": "虚拟机",
+    "objList": [{
+      "id": "52449422-c5cc-4d7a-be7f-941c81ec60c3",
+      "srvList": [{
+        "id": "2cde8e1b-db7f-4d53-9889-b4a4d0c832c4",
+        "srvLevel": "参数数据类型处理测试"
+      }, {
+        "id": "757a7cca-397b-43c9-b43b-571634beb5b5",
+        "srvLevel": "多参数测试"
+      }, {
+        "id": "e5da5400-982b-49fd-9124-b216380e8daf",
+        "srvLevel": "三层参数测试"
+      }],
+      "objLevel": "测试"
+    }, {
+      "id": "c77f1f40-6795-4829-8c3c-ed4223b71d0c",
+      "srvList": [{
+        "id": "03b9e907-74e7-4711-88db-9c2ad97ba194",
+        "srvLevel": "测试参数转化"
+      }, {
+        "id": "6c4dcc80-9712-4127-a2cb-a37b6068fa03",
+        "srvLevel": "创建虚拟机"
+      }],
+      "objLevel": "创建测试"
+    }]
+  }, {
+    "id": "39553c07-c2aa-4754-b163-d230f7443cbf",
+    "rootLevel": "计算",
+    "objList": [{
+      "id": "c77f1f40-6795-4829-8c3c-ed4223b71d0c",
+      "srvList": [{
+        "id": "03b9e907-74e7-4711-88db-9c2ad97ba194",
+        "srvLevel": "测试参数转化"
+      }, {
+        "id": "6c4dcc80-9712-4127-a2cb-a37b6068fa03",
+        "srvLevel": "创建虚拟机"
+      }],
+      "objLevel": "删除"
+    }]
+  }]
+}

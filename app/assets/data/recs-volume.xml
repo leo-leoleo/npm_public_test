@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<response>
+  <status>success</status>
+  <message>处理成功</message>
+  <AppendVolumeResponse>
+    <RequestId>klsdflkjsdklfjdfdsf</RequestId>
+    <Volume>
+      <AttachmentSet>
+        <item>
+          <AttachTime>sdfsdfdsf</AttachTime>
+          <DeleteOnTermination>true</DeleteOnTermination>
+          <Device>/dev/xvda</Device>
+          <InstanceId>I-sdfsdfsd</InstanceId>
+          <Status>attaching</Status>
+          <VolumeId>vol-sdfsdfss</VolumeId>
+        </item>
+      </AttachmentSet>
+      <AvailabilityZone>az-sdfsdfsd</AvailabilityZone>
+      <CreateTime>sdfsdfsdf</CreateTime>
+      <Size>80</Size>
+      <VolumeId>vol-sdfsdfss</VolumeId>
+      <VolumeType>g-tier1</VolumeType>
+    </Volume>
+  </AppendVolumeResponse>
+</response>

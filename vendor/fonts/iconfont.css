@@ -1,0 +1,111 @@
+
+@font-face {font-family: "hfcloud";
+  src: url('iconfont.eot?t=1493200862610'); /* IE9*/
+  src: url('iconfont.eot?t=1493200862610#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('iconfont.woff?t=1493200862610') format('woff'), /* chrome, firefox */
+  url('iconfont.ttf?t=1493200862610') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('iconfont.svg?t=1493200862610#hfcloud') format('svg'); /* iOS 4.1- */
+}
+
+.hfcloud {
+  font-family:"hfcloud" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.hficon-support:before { content: "\e76c"; }
+
+.hficon-succeed:before { content: "\e76d"; }
+
+.hficon-svpc:before { content: "\e76e"; }
+
+.hficon-waf:before { content: "\e76f"; }
+
+.hficon-volume:before { content: "\e770"; }
+
+.hficon-strategy:before { content: "\e771"; }
+
+.hficon-set:before { content: "\e772"; }
+
+.hficon-updata:before { content: "\e773"; }
+
+.hficon-service:before { content: "\e774"; }
+
+.hficon-runing:before { content: "\e775"; }
+
+.hficon-search:before { content: "\e776"; }
+
+.hficon-s:before { content: "\e777"; }
+
+.hficon-retry:before { content: "\e778"; }
+
+.hficon-report:before { content: "\e779"; }
+
+.hficon-select:before { content: "\e77a"; }
+
+.hficon-recs:before { content: "\e77b"; }
+
+.hficon-question:before { content: "\e77c"; }
+
+.hficon-rds:before { content: "\e77d"; }
+
+.hficon-putgroup:before { content: "\e77e"; }
+
+.hficon-notice:before { content: "\e77f"; }
+
+.hficon-sendmail:before { content: "\e780"; }
+
+.hficon-mirror:before { content: "\e781"; }
+
+.hficon-location:before { content: "\e782"; }
+
+.hficon-loadbalance:before { content: "\e783"; }
+
+.hficon-instance:before { content: "\e784"; }
+
+.hficon-edit:before { content: "\e785"; }
+
+.hficon-info:before { content: "\e786"; }
+
+.hficon-event:before { content: "\e787"; }
+
+.hficon-people:before { content: "\e788"; }
+
+.hficon-delete:before { content: "\e789"; }
+
+.hficon-iam:before { content: "\e78a"; }
+
+.hficon-dns:before { content: "\e78b"; }
+
+.hficon-consulting:before { content: "\e78c"; }
+
+.hficon-cloudformation:before { content: "\e78d"; }
+
+.hficon-announcement:before { content: "\e78e"; }
+
+.hficon-alert:before { content: "\e78f"; }
+
+.hficon-allservice:before { content: "\e790"; }
+
+.hficon-cloudwatch:before { content: "\e791"; }
+
+.hficon-user:before { content: "\e792"; }
+
+.hficon-svpc_subnet:before { content: "\e793"; }
+
+.hficon-svpc_securitygroup:before { content: "\e794"; }
+
+.hficon-svpc_getway:before { content: "\e795"; }
+
+.hficon-label:before { content: "\e796"; }
+
+.hficon-history:before { content: "\e798"; }
+
+.hficon-limit:before { content: "\e799"; }
+
+.hficon-svpc_safezone1:before { content: "\e79a"; }
+
+.hficon-report1:before { content: "\e79b"; }
+

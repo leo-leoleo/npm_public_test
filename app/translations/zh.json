@@ -1,0 +1,22 @@
+[
+  {
+    "id": "app.components.LocaleToggle.zh",
+    "message": "中文"
+  },
+  {
+    "id": "app.components.LocaleToggle.en",
+    "message": "EN"
+  },
+  {
+    "id": "app.containers.App.menu.home",
+    "message": "主页"
+  },
+  {
+    "id": "app.containers.App.menu.DashBoard",
+    "message": "控制台"
+  },
+  {
+    "id": "routes.home",
+    "message": "首页"
+  }
+]

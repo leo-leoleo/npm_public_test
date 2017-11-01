@@ -1,0 +1,18 @@
+[
+  {
+    "id": "app.components.LocaleToggle.zh",
+    "message": "中文"
+  },
+  {
+    "id": "app.components.LocaleToggle.en",
+    "message": "EN"
+  },
+  {
+    "id": "app.containers.App.menu.home",
+    "message": "Home"
+  },
+  {
+    "id": "app.containers.App.menu.DashBoard",
+    "message": "DashBoard"
+  }
+]

@@ -1,0 +1,123 @@
+{
+    "status": "success",
+    "message": "处理成功",
+    "item": {
+        "id": "0",
+        "pid": "-1",
+        "cname": "根节点",
+        "description": "根节点",
+        "sort": 0,
+        "childList": [
+            {
+                "id": "b01d21e4-be3b-4a7d-a55d-c9c865d1b5e2",
+                "pid": "0",
+                "cname": "网络请求",
+                "description": null,
+                "sort": null,
+                "childList": [
+                    {
+                        "id": "1e5ac6ae-8e95-47d6-9718-365e43761b63",
+                        "pid": "b01d21e4-be3b-4a7d-a55d-c9c865d1b5e2",
+                        "cname": "DNS",
+                        "description": null,
+                        "sort": null,
+                        "childList": [
+                            {
+                                "id": "1e5ac6ae-8e95-47d6-9718-365e43761b33",
+                                "pid": "1e5ac6ae-8e95-47d6-9718-365e43761b63",
+                                "cname": "test1",
+                                "description": null,
+                                "sort": null,
+                                "childList": [
+                                ]
+                            }, {
+                                "id": "1e5ac6ae-8e95-47d6-9718-365e43761b33",
+                                "pid": "1e5ac6ae-8e95-47d6-9718-365e43761b63",
+                                "cname": "test2",
+                                "description": null,
+                                "sort": null,
+                                "childList": [
+                                ]
+                            }, {
+                                "id": "1e5ac6ae-8e95-47d6-9718-365e43761b33",
+                                "pid": "1e5ac6ae-8e95-47d6-9718-365e43761b63",
+                                "cname": "test3",
+                                "description": null,
+                                "sort": null,
+                                "childList": [
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "905266ba-8fae-4e99-adb5-7c5933d024c5",
+                        "pid": "b01d21e4-be3b-4a7d-a55d-c9c865d1b5e2",
+                        "cname": "TOMCAT",
+                        "description": null,
+                        "sort": null,
+                        "childList": []
+                    }
+                ]
+            },
+            {
+                "id": "ff8db4e6-575c-4f8c-8908-d772e04de9cd",
+                "pid": "0",
+                "cname": "计算资源",
+                "description": null,
+                "sort": null,
+                "childList": [
+                    {
+                        "id": "b1a7f6b8-4070-4381-99f3-97b7053c5b55",
+                        "pid": "ff8db4e6-575c-4f8c-8908-d772e04de9cd",
+                        "cname": "主机",
+                        "description": null,
+                        "sort": null,
+                        "childList": []
+                    }
+                ]
+            },
+            {
+                "id": "b32e53bb-7c64-4460-8add-bca6fd861676",
+                "pid": "0",
+                "cname": "云网络",
+                "description": null,
+                "sort": null,
+                "childList": [
+                    {
+                        "id": "2c8a9b1f-a1d9-4444-b468-40c28d30958e",
+                        "pid": "b32e53bb-7c64-4460-8add-bca6fd861676",
+                        "cname": "负载均衡",
+                        "description": null,
+                        "sort": null,
+                        "childList": []
+                    },
+                    {
+                        "id": "7a0e43df-88df-441a-b84b-1eb3fb8a8dfb",
+                        "pid": "b32e53bb-7c64-4460-8add-bca6fd861676",
+                        "cname": "防火墙",
+                        "description": null,
+                        "sort": null,
+                        "childList": []
+                    }
+                ]
+            },
+            {
+                "id": "4de68f52-ef43-474f-b043-d40f221c2125",
+                "pid": "0",
+                "cname": "测试大类",
+                "description": null,
+                "sort": null,
+                "childList": [
+                    {
+                        "id": "4192edf2-6ab0-43bb-90ca-8ae472ab7710",
+                        "pid": "4de68f52-ef43-474f-b043-d40f221c2125",
+                        "cname": "测试二级目录",
+                        "description": null,
+                        "sort": null,
+                        "childList": []
+                    }
+                ]
+            }
+        ]
+    }
+}

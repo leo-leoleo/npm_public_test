@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<response>
+    <status>success</status>
+    <message>处理成功</message>
+    <res>
+        <menus>
+            <name>基础设施</name>
+            <icon>recs</icon>
+            <children>
+                <name>地区管理</name>
+                <url>/region/region-controll</url>
+            </children>
+            <children>
+                <name>物理网络</name>
+                <url>/region/region-physics</url>
+            </children>
+        </menus>
+        <menus>
+            <name>云基础设施</name>
+            <icon>svpc_securitygroup</icon>
+            <children>
+                <name>可用区管理</name>
+                <url>/region/region-used</url>
+            </children>
+            <children>
+                <name>可用区亲和性组</name>
+                <url>/region/region-used-affine</url>
+            </children>
+            <children>
+                <name>可用去对等组</name>
+                <url>/region/region-used-equity</url>
+            </children>
+        </menus>
+    </res>
+</response>

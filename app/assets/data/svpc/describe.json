@@ -1,0 +1,244 @@
+{
+  "DescribeSubnetsFDVO": {
+    "subnetList": {
+      "subnet": [
+        {
+          "AvailabilityZone": "az-ef468108",
+          "AvailableIpAddressCount": "111",
+          "CidrBlock": "10.2.3.4/23",
+          "DefaultForAz": "False",
+          "MapPublicIpOnlaunch": "N",
+          "State": "PENDING",
+          "SubnetId": "subnet-b58178f8",
+          "VpcId": "vpc-d1d1e858",
+          "SubneType": "DEFAULT",
+          "Association": {
+            "AssociateionId": "4a2a5d63-ff45-43bb-bc89-39694a5a7383",
+            "SubnetId": "subnet-b58178f8",
+            "SecurityZoneId": "sz-e72586c6",
+            "AssocaitonTime": "1494581244000"
+          }
+        },
+        {
+          "AvailabilityZone": "az-c7409a91",
+          "AvailableIpAddressCount": "111",
+          "CidrBlock": "1.20.35.45/23",
+          "DefaultForAz": "False",
+          "MapPublicIpOnlaunch": "N",
+          "State": "PENDING",
+          "SubnetId": "subnet-f16558bc",
+          "VpcId": "vpc-b204c9c7",
+          "SubneType": "DEFAULT"
+        },
+        {
+          "AvailabilityZone": "az-ef468108",
+          "AvailableIpAddressCount": "111",
+          "CidrBlock": "10.2.3.4/23",
+          "DefaultForAz": "False",
+          "MapPublicIpOnlaunch": "N",
+          "State": "PENDING",
+          "SubnetId": "subnet-e6149c19",
+          "VpcId": "vpc-d1d1e858",
+          "SubneType": "DEFAULT",
+          "Association": {
+            "AssociateionId": "298cc1fd-2179-4de5-b84f-b97724148cb4",
+            "SubnetId": "subnet-e6149c19",
+            "SecurityZoneId": "sz-e72586c6",
+            "AssocaitonTime": "1494578208000"
+          }
+        },
+        {
+          "AvailabilityZone": "az-ef468108",
+          "AvailableIpAddressCount": "111",
+          "CidrBlock": "10.2.3.4/20",
+          "DefaultForAz": "False",
+          "MapPublicIpOnlaunch": "N",
+          "State": "PENDING",
+          "SubnetId": "subnet-a436f58f",
+          "VpcId": "vpc-d1d1e858",
+          "SubneType": "DEFAULT",
+          "Association": {
+            "AssociateionId": "a3a56d9c-ef51-4ec0-9b3c-af5f819c253a",
+            "SubnetId": "subnet-a436f58f",
+            "SecurityZoneId": "sz-e72586c6",
+            "AssocaitonTime": "1494323655000"
+          }
+        },
+        {
+          "AvailabilityZone": "az-ef468108",
+          "AvailableIpAddressCount": "111",
+          "CidrBlock": "10.2.3.4/21",
+          "DefaultForAz": "False",
+          "MapPublicIpOnlaunch": "N",
+          "State": "PENDING",
+          "SubnetId": "subnet-d996878f",
+          "VpcId": "vpc-d1d1e858",
+          "SubneType": "DEFAULT",
+          "Association": {
+            "AssociateionId": "d586c2c2-9db9-41a6-8730-50bd89bdd343",
+            "SubnetId": "subnet-d996878f",
+            "SecurityZoneId": "sz-e72586c6",
+            "AssocaitonTime": "1494235826000"
+          }
+        },
+        {
+          "AvailabilityZone": "az-ef468108",
+          "AvailableIpAddressCount": "111",
+          "CidrBlock": "10.2.3.4/22",
+          "DefaultForAz": "False",
+          "MapPublicIpOnlaunch": "N",
+          "State": "PENDING",
+          "SubnetId": "subnet-d04e504e",
+          "VpcId": "vpc-d1d1e858",
+          "SubneType": "DEFAULT",
+          "Association": {
+            "AssociateionId": "cad27d22-7a71-4d8d-9291-8dee3714eb2d",
+            "SubnetId": "subnet-d04e504e",
+            "SecurityZoneId": "sz-e72586c6",
+            "AssocaitonTime": "1494300412000"
+          }
+        },
+        {
+          "AvailabilityZone": "az-c7409a91",
+          "AvailableIpAddressCount": "111",
+          "CidrBlock": "1.20.35.45/23",
+          "DefaultForAz": "False",
+          "MapPublicIpOnlaunch": "N",
+          "State": "PENDING",
+          "SubnetId": "subnet-f16ff102",
+          "VpcId": "vpc-b204c9c7",
+          "SubneType": "DEFAULT",
+          "Association": {
+            "AssociateionId": "de55f892-1083-4e1e-a3a2-2e4e88ab834b",
+            "SubnetId": "subnet-f16ff102",
+            "SecurityZoneId": "sz-ebaaa80d",
+            "AssocaitonTime": "1494582544000"
+          }
+        },
+        {
+          "AvailabilityZone": "az-ef468108",
+          "AvailableIpAddressCount": "111",
+          "CidrBlock": "10.2.3.4/23",
+          "DefaultForAz": "False",
+          "MapPublicIpOnlaunch": "N",
+          "State": "PENDING",
+          "SubnetId": "subnet-b4ddefbc",
+          "VpcId": "vpc-d1d1e858",
+          "SubneType": "DEFAULT",
+          "Association": {
+            "AssociateionId": "5e840c6a-7e1e-47e5-a01b-fc30f5c8d48c",
+            "SubnetId": "subnet-b4ddefbc",
+            "SecurityZoneId": "sz-e72586c6",
+            "AssocaitonTime": "1494581262000"
+          }
+        },
+        {
+          "AvailabilityZone": "az-c7409a91",
+          "AvailableIpAddressCount": "111",
+          "CidrBlock": "10.11.2.8/20",
+          "DefaultForAz": "False",
+          "MapPublicIpOnlaunch": "N",
+          "State": "PENDING",
+          "SubnetId": "subnet-d98ee188",
+          "VpcId": "vpc-b204c9c7",
+          "SubneType": "DEFAULT",
+          "Association": {
+            "AssociateionId": "39bc8ddb-a8b1-43e7-b311-c2a271289ca6",
+            "SubnetId": "subnet-d98ee188",
+            "SecurityZoneId": "sz-e50f334e",
+            "AssocaitonTime": "1494057010000"
+          }
+        },
+        {
+          "AvailabilityZone": "az-c7409a91",
+          "AvailableIpAddressCount": "111",
+          "CidrBlock": "10.11.2.8/19",
+          "DefaultForAz": "False",
+          "MapPublicIpOnlaunch": "N",
+          "State": "PENDING",
+          "SubnetId": "subnet-a0116cda",
+          "VpcId": "vpc-b204c9c7",
+          "SubneType": "DEFAULT",
+          "Association": {
+            "AssociateionId": "69da9532-b0f6-4552-999d-3cf0461f8bf9",
+            "SubnetId": "subnet-a0116cda",
+            "SecurityZoneId": "sz-e50f334e",
+            "AssocaitonTime": "1494059030000"
+          }
+        }
+      ]
+    },
+    "NextToken": "MQ==",
+    "TotalPages": "3",
+    "TotalCount": "22",
+    "CurrentPage": "0",
+    "RequestID": "583a70d9-099c-4bf9-be87-f02fb4aee392"
+  }
+
+
+
+//  svpc
+//[
+//  {
+//    id : '1',
+//    name : 'svpc1'
+//  },
+//  {
+//    id : '2',
+//    name : 'svpc2'
+//  }
+//]
+//id = 1,
+//az
+//[
+//{
+//id : 'a2',
+//name :'az2',
+//svpcId:'1'
+//}
+//{
+//id : 'a3',
+//name :'az3',
+//svpcId:'1'
+//},
+//{
+//id : 'a5',
+//name :'az5',
+//svpcId:'2'
+//}
+//
+//];
+//
+//az list [a2,a3];
+//
+//az = a2,svpc=1
+//
+//sg
+//[
+//{
+//id : 'sg1',
+//name : 'sgn1',
+//azId : 'az1',
+//svpcId:'1'
+//},
+//{
+//id : 'sg12',
+//name : 'sgn12',
+//azId : 'az1',
+//svpcId:'1'
+//},
+//{
+//id : 'sg12',
+//name : 'sgn12',
+//azId : 'az2',
+//svpcId:'1'
+//},,
+//{
+//id : 'sg14',
+//name : 'sgn14',
+//azId : 'az2',
+//svpcId:'1'
+//}
+//
+//]
+//}

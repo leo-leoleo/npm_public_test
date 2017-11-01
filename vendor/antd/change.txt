@@ -1,0 +1,11 @@
+颜色调整
+
+default
+  #2DB7F5 > #5486F6
+
+button
+  hover、focus
+    #57c5f7 > #719AFA
+    white   > #719AFA
+  active
+    #2baee9 > #4774DF

@@ -1,0 +1,8 @@
+<Response>
+  <Errors>
+    <Error>
+      <Code>Common.Invalied</Code>
+      <Message>http://www.baidu.com</Message>
+    </Error>
+  </Errors>
+</Response>

@@ -1,0 +1,124 @@
+{
+  "status": "success",
+  "message": "处理成功",
+  "subnetList": {
+    "subnet": [
+      {
+        "AvailabilityZone": "a94a9d24-5b5a-4d0a-98b1-845b0c5aef2f",
+        "AvailableIpAddressCount": "111",
+        "CidrBlock": "10.2.3.4/23",
+        "DefaultForAz": "False",
+        "MapPublicIpOnlaunch": "N",
+        "State": "PENDING",
+        "SubnetId": "subnet-d996878f",
+        "VpcId": "c76ecb10-d552-4b92-8e64-04b0fb0bf474",
+        "SubneType": "DEFAULT"
+      },
+      {
+        "AvailabilityZone": "a94a9d24-5b5a-4d0a-98b1-845b0c5aef2f",
+        "AvailableIpAddressCount": "111",
+        "CidrBlock": "10.2.3.4/23",
+        "DefaultForAz": "False",
+        "MapPublicIpOnlaunch": "N",
+        "State": "PENDING",
+        "SubnetId": "subnet-d04e504e",
+        "VpcId": "c76ecb10-d552-4b92-8e64-04b0fb0bf474",
+        "SubneType": "DEFAULT"
+      },
+      {
+        "AvailabilityZone": "a94a9d24-5b5a-4d0a-98b1-845b0c5aef2f",
+        "AvailableIpAddressCount": "111",
+        "CidrBlock": "10.2.3.4/23",
+        "DefaultForAz": "False",
+        "MapPublicIpOnlaunch": "N",
+        "State": "PENDING",
+        "SubnetId": "subnet-fc990d83",
+        "VpcId": "c76ecb10-d552-4b92-8e64-04b0fb0bf474",
+        "SubneType": "DEFAULT"
+      },
+      {
+        "AvailabilityZone": "0cd5367b-5149-4358-b622-24cb3288403b",
+        "AvailableIpAddressCount": "111",
+        "CidrBlock": "10.11.2.8/19",
+        "DefaultForAz": "False",
+        "MapPublicIpOnlaunch": "N",
+        "State": "PENDING",
+        "SubnetId": "subnet-d98ee188",
+        "VpcId": "b53acb05-ef41-4ada-b3fd-bde78e15be40",
+        "SubneType": "DEFAULT"
+      },
+      {
+        "AvailabilityZone": "0cd5367b-5149-4358-b622-24cb3288403b",
+        "AvailableIpAddressCount": "111",
+        "CidrBlock": "10.11.2.8/19",
+        "DefaultForAz": "False",
+        "MapPublicIpOnlaunch": "N",
+        "State": "PENDING",
+        "SubnetId": "subnet-caa57c94",
+        "VpcId": "b53acb05-ef41-4ada-b3fd-bde78e15be40",
+        "SubneType": "DEFAULT"
+      },
+      {
+        "AvailabilityZone": "0cd5367b-5149-4358-b622-24cb3288403b",
+        "AvailableIpAddressCount": "111",
+        "CidrBlock": "10.11.2.8/19",
+        "DefaultForAz": "True",
+        "MapPublicIpOnlaunch": "N",
+        "State": "PENDING",
+        "SubnetId": "subnet-fec93c17",
+        "VpcId": "b53acb05-ef41-4ada-b3fd-bde78e15be40",
+        "SubneType": "DEFAULT"
+      },
+      {
+        "AvailabilityZone": "a94a9d24-5b5a-4d0a-98b1-845b0c5aef2f",
+        "AvailableIpAddressCount": "111",
+        "CidrBlock": "10.2.3.4/23",
+        "DefaultForAz": "False",
+        "MapPublicIpOnlaunch": "N",
+        "State": "PENDING",
+        "SubnetId": "subnet-ea411ae7",
+        "VpcId": "c76ecb10-d552-4b92-8e64-04b0fb0bf474",
+        "SubneType": "DEFAULT"
+      },
+      {
+        "AvailabilityZone": "0cd5367b-5149-4358-b622-24cb3288403b",
+        "AvailableIpAddressCount": "111",
+        "CidrBlock": "10.11.2.8/19",
+        "DefaultForAz": "False",
+        "MapPublicIpOnlaunch": "N",
+        "State": "PENDING",
+        "SubnetId": "subnet-d9dcdeeb",
+        "VpcId": "b53acb05-ef41-4ada-b3fd-bde78e15be40",
+        "SubneType": "DEFAULT"
+      },
+      {
+        "AvailabilityZone": "0cd5367b-5149-4358-b622-24cb3288403b",
+        "AvailableIpAddressCount": "111",
+        "CidrBlock": "10.11.2.8/19",
+        "DefaultForAz": "False",
+        "MapPublicIpOnlaunch": "N",
+        "State": "PENDING",
+        "SubnetId": "subnet-fdaa97e7",
+        "VpcId": "b53acb05-ef41-4ada-b3fd-bde78e15be40",
+        "SubneType": "DEFAULT"
+      },
+      {
+        "AvailabilityZone": "0cd5367b-5149-4358-b622-24cb3288403b",
+        "AvailableIpAddressCount": "111",
+        "CidrBlock": "10.11.2.8/19",
+        "DefaultForAz": "False",
+        "MapPublicIpOnlaunch": "N",
+        "State": "PENDING",
+        "SubnetId": "subnet-aa0fd491",
+        "VpcId": "b53acb05-ef41-4ada-b3fd-bde78e15be40",
+        "SubneType": "DEFAULT"
+      }
+    ]
+  },
+  "NextToken": "MQ==",
+  "TotalPages": "2",
+  "TotalCount": "19",
+  "CurrentPage": "0",
+  "RequestID": "8111fa48-9349-440c-99c6-5a2a6b3c617c"
+
+}

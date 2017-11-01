@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<response>
+  <status>success</status>
+  <message>处理成功</message>
+  <res>
+    <menus>
+      <name>用户</name>
+      <icon>user</icon>
+      <children>
+        <name>用户</name>
+        <url>/user-name/userpag</url>
+      </children>
+    </menus>
+    <menus>
+      <name>策略</name>
+      <icon>strategy</icon>
+      <children>
+        <name>策略</name>
+        <url>/tactics/tacticsPage</url>
+      </children>
+    </menus>
+  </res>
+</response>

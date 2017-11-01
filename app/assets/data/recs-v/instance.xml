@@ -1,0 +1,30 @@
+<response>
+  <status>success</status>
+  <message>处理成功</message>
+  <res>
+    <menus>
+      <name>标签测试</name>
+      <icon>label</icon>
+    </menus>
+    <menus>
+      <name>实例</name>
+      <icon>instance</icon>
+      <children>
+        <name>实例</name>
+        <url>/ServiceCatalog</url>
+      </children>
+    </menus>
+    <menus>
+      <name>镜像</name>
+      <icon>mirror</icon>
+      <children>
+        <name>FMI</name>
+        <url></url>
+      </children>
+      <children>
+        <name>ServiceCatalog</name>
+        <url>/ServiceCatalog</url>
+      </children>
+    </menus>
+  </res>
+</response>
