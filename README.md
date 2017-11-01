@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # yylm-fcs-ui 
 
 ## 安装
@@ -236,6 +237,9 @@ server {
 这时候可直接访问: http://localhost 
 
 测试没问题过后可提交 build 目录到代码仓库
+=======
+# npm_public_test
+>>>>>>> 52fa5a70d1d2fc6940ab4e43327de7e68171c044
 =======
 # npm_public_test
 >>>>>>> 52fa5a70d1d2fc6940ab4e43327de7e68171c044
